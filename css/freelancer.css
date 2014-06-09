@@ -283,6 +283,14 @@ section.success {
     resize: none;
 }
 
+.roundimage {
+    -webkit-border-radius: 64px;
+    -moz-border-radius: 64px;
+    -ms-border-radius: 64px;
+    -o-border-radius: 64px;
+    border-radius: 64px;
+}
+
 .floating-label-form-group label {
     display: block;
     z-index: 0;
